@@ -4,7 +4,7 @@
 
 - 🎮 I’m currently working on **a Foodtruck Game in Unreal Engine 5.1.1**
 
-- 🌱 I’m currently learning **C++, UE5**
+- 🌱 I’m currently actively learning **C++** and **UE5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
