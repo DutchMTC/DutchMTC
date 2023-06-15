@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Miyaki</h1>
-<h3 align="center">Unreal Engine & Unity Developer</h3>
+<h3 align="center">Unreal Engine & Unity Gameplay Developer</h3>
 <br>
 
 - 🎮 I’m currently working on **a Foodtruck Game in Unreal Engine 5.1.1**
