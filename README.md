@@ -2,7 +2,7 @@
 <h3 align="center">Unreal Engine & Unity Gameplay Developer</h3>
 <br>
 
-- 🎮 I’m currently working on **a Foodtruck Game in Unreal Engine 5.1.1**
+- 🎮 I’m currently working on **a Real Time Strategy Game in Unreal Engine 5.2.1**
 
 - 🌱 I’m currently actively learning **C++** and **UE5**
 
