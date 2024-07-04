@@ -2,7 +2,7 @@
 <h3 align="center">Unreal Engine & Unity Gameplay Developer</h3>
 <br>
 
-- 🎮 I’m currently enjoying a well earned vacation!**
+- 🎮 I’m currently enjoying a well earned vacation!
 
 - 🌱 I’m currently actively expanding my skills in **Unreal Engine** and **Mixed Reality**.
 
