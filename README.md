@@ -2,9 +2,9 @@
 <h3 align="center">Unreal Engine & Unity Gameplay Developer</h3>
 <br>
 
-- 🎮 I’m currently working on **a Real Time Strategy Game in Unreal Engine 5.2.1**
+- 🎮 I’m currently enjoying a well earned vacation!**
 
-- 🌱 I’m currently actively learning **C++** and **UE5**
+- 🌱 I’m currently actively expanding my skills in **Unreal Engine** and **Mixed Reality**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
