@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Miyaki</h1>
-<h3 align="center">Unreal Engine & Unity Gameplay Developer</h3>
+<h3 align="center">Unreal Engine & Unity Gameplay/XR Developer</h3>
 <br>
 
-- 🎮 I’m currently enjoying a well earned vacation!
+- 🎮 I’m currently doing an internship at [GoSpooky](https://www.gospooky.com/).
 
-- 🌱 I’m currently actively expanding my skills in **Unreal Engine** and **Mixed Reality**.
+- 🌱 I’m currently actively expanding my skills in **Unreal Engine**, **Unity** and **Mixed Reality**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
