@@ -2,7 +2,7 @@
 <h3 align="center">Unreal Engine & Unity Gameplay/XR Developer</h3>
 <br>
 
-- 🎮 I’m currently doing an internship at [GoSpooky](https://www.gospooky.com/).
+- 🎮 I’m studying Game Development and doing exams in my final year at [Mediacollege](https://www.ma-web.nl).
 
 - 🌱 I’m currently actively expanding my skills in **Unreal Engine**, **Unity** and **Mixed Reality**.
 
