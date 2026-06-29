@@ -1,5 +1,5 @@
 # **Hi, I'm Miyaki!** 👋
-I am a **21-year-old Full-Stack Developer** with a passion for creating innovative digital experiences.
+I am a **22-year-old Full-Stack Developer** with a passion for creating innovative digital experiences.
 
 <p>
   <a href="https://www.linkedin.com/in/miyakitr/">
